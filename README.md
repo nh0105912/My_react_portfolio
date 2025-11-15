@@ -121,7 +121,7 @@ npm run build
 
 If you want to reach me:
 Email: nh0105912@gmail.com  <br/>
-Phone: your-phone <br />
+
 
 <a href="https://www.linkedin.com/in/noorul-hadi-b837a8372/">LinkedIn</a><br />
 
